@@ -1,5 +1,3 @@
-<?php 
+<?php
 
-echo "test lala"
-hffyjujut
-?>
+echo "test lala";
