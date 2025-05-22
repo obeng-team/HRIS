@@ -1,5 +1,1 @@
-<?php 
-
-echo "test lala"
-hffyjujut
-?>
+<?php echo "controller";
