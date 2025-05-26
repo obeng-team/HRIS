@@ -1,2 +1,1 @@
-<?php echo "controller";
-error jg controller
+<?php echo "controller last coba ya";
