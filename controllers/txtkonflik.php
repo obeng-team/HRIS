@@ -1,5 +1,5 @@
 <?php
 
-echo "konflik";
+echo "konflik asik";
 
 ?>
