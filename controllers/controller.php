@@ -1,1 +1,5 @@
-<?php echo "controller last coba ya";
+<?php 
+echo "controller last coba ya";
+echo "sfsdfd";
+
+;
