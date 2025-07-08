@@ -1,5 +1,5 @@
 <?php
 
-echo "create";
+echo "edit woi sore sore";
 
 ?>
