@@ -1,5 +1,5 @@
 <?php
 
-echo "delete";
+echo "test kedua woi";
 
 ?>
