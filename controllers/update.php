@@ -1,4 +1,6 @@
 <?php
 
 echo "edit pertama woi";
-echo "ini untuk test2";
+
+echo "oyeah test1 jg deh";
+
