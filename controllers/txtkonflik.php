@@ -1,4 +1,4 @@
 <?php
 
 echo "test rabu pagi";
-echo "test 1";
+echo "test 123456";
